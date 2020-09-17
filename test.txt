@@ -1,1 +1,4 @@
 TEST txt file
+
+testing stage area
+some text
